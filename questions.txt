@@ -1,0 +1,79 @@
+What is 2 + 2?|1|2|3|4|D|B
+What is the capital of France?|Paris|London|Berlin|Rome|A|B
+Which planet is known as the Red Planet?|Earth|Venus|Mars|Jupiter|C|B
+What is the color of the sky on a clear day?|Red|Blue|Green|Yellow|B|B
+How many days are there in a week?|5|6|7|8|C|B
+What is 5 * 5?|15|20|25|30|C|B
+Which animal says "Meow"?|Dog|Cat|Cow|Horse|B|B
+How many continents are there on Earth?|5|6|7|8|C|B
+What is the boiling point of water in Celsius?|90|100|110|120|B|B
+What is the opposite of "Hot"?|Cold|Warm|Cool|Boiling|A|B
+How many legs does a spider have?|6|8|10|12|B|B
+Which month has 28 or 29 days?|January|February|March|April|B|B
+What is the largest mammal?|Elephant|Whale|Dolphin|Tiger|B|B
+How many letters are there in the English alphabet?|24|25|26|27|C|B
+What is 10 divided by 2?|2|4|5|10|C|B
+What is the capital of Japan?|Tokyo|Beijing|Seoul|Bangkok|A|B
+What is the color of grass?|Green|Blue|Yellow|Red|A|B
+Which shape has three sides?|Square|Triangle|Circle|Rectangle|B|B
+How many hours are there in a day?|12|24|48|60|B|B
+What is 1 + 1?|0|1|2|3|C|B
+What is the name of our galaxy?|Milky Way|Andromeda|Orion|Sagittarius|A|B
+What do bees produce?|Milk|Honey|Wax|Sugar|B|B
+What is the freezing point of water in Celsius?|0|10|32|50|A|B
+Which ocean is the largest?|Atlantic|Indian|Pacific|Arctic|C|B
+What is 20% of 100?|10|15|20|25|C|B
+
+
+Who wrote "Romeo and Juliet"?|Shakespeare|Hemingway|Dickens|Austen|A|I
+What is the chemical symbol for gold?|Go|G|Au|Ag|C|I
+What is the square root of 81?|7|8|9|10|C|I
+Who painted the Mona Lisa?|Picasso|Da Vinci|Van Gogh|Rembrandt|B|I
+Which planet has rings?|Mars|Earth|Jupiter|Saturn|D|I
+What is the hardest natural substance on Earth?|Iron|Gold|Diamond|Platinum|C|I
+What is the capital of Australia?|Sydney|Melbourne|Canberra|Perth|C|I
+Who discovered gravity?|Newton|Einstein|Galileo|Kepler|A|I
+What is the chemical formula for table salt?|NaO|NaCl|H2O|KCl|B|I
+What is the largest organ in the human body?|Heart|Lungs|Liver|Skin|D|I
+What is the smallest prime number?|1|2|3|5|B|I
+Who was the first President of the United States?|Lincoln|Jefferson|Washington|Adams|C|I
+What is 15% of 200?|25|30|35|40|B|I
+Which gas do plants absorb during photosynthesis?|Oxygen|Carbon Dioxide|Nitrogen|Hydrogen|B|I
+Which country is known as the Land of the Rising Sun?|China|Japan|Korea|Thailand|B|I
+What is the name of the longest river in the world?|Amazon|Nile|Yangtze|Mississippi|B|I
+What is the speed of light?|300,000 km/s|150,000 km/s|500,000 km/s|1,000,000 km/s|A|I
+Who invented the telephone?|Edison|Bell|Tesla|Marconi|B|I
+What is the capital of Canada?|Toronto|Montreal|Ottawa|Vancouver|C|I
+What is the pH of pure water?|6|7|8|9|B|I
+What is the smallest bone in the human body?|Femur|Stapes|Ulna|Tibia|B|I
+What is the largest desert in the world?|Sahara|Arctic|Antarctica|Gobi|C|I
+What is the value of pi (approximately)?|3.12|3.14|3.15|3.16|B|I
+What is 1000 divided by 25?|25|30|40|50|D|I
+What is the national animal of India?|Elephant|Tiger|Peacock|Lion|B|I
+
+
+What is the atomic number of oxygen?|6|7|8|9|C|P
+Who developed the theory of relativity?|Newton|Einstein|Galileo|Hawking|B|P
+What is the capital of Bhutan?|Thimphu|Kathmandu|Dhaka|Colombo|A|P
+What is the derivative of sin(x)?|cos(x)|-sin(x)|-cos(x)|tan(x)|A|P
+Which year did the Titanic sink?|1908|1912|1916|1920|B|P
+What is the binary representation of 10?|1010|1001|1100|1011|A|P
+What is the chemical name for rust?|Iron Oxide|Iron Sulfide|Iron Nitrate|Iron Chloride|A|P
+What is the largest moon of Saturn?|Europa|Titan|Ganymede|Callisto|B|P
+Which country has the longest coastline?|Russia|Canada|Australia|USA|B|P
+Who was the first woman in space?|Sally Ride|Valentina Tereshkova|Mae Jemison|Kalpana Chawla|B|P
+What is the determinant of a 2x2 matrix with elements 1, 2, 3, 4?|2|-2|0|6|B|P
+Which element has the highest melting point?|Tungsten|Iron|Carbon|Platinum|A|P
+What is the sum of the angles in a pentagon?|360|540|720|900|B|P
+Which country invented paper?|India|China|Egypt|Greece|B|P
+What is the longest bone in the human body?|Femur|Tibia|Humerus|Radius|A|P
+What is the chemical formula for glucose?|C6H12O6|CH4|H2SO4|CO2|A|P
+Which star is closest to Earth?|Sirius|Proxima Centauri|Vega|Betelgeuse|B|P
+What is the hardest rock type?|Granite|Marble|Diamond|Quartzite|C|P
+Who won the Nobel Prize in Physics in 1921?|Einstein|Planck|Bohr|Curie|A|P
+What is the capital of Mongolia?|Ulaanbaatar|Astana|Bishkek|Tashkent|A|P
+What is Euler's constant (e) approximately?|2.71|3.14|1.41|1.73|A|P
+What is the SI unit of electric charge?|Coulomb|Ampere|Ohm|Volt|A|P
+What is the currency of South Korea?|Yen|Won|Dollar|Baht|B|P
+What is 2^10?|512|1024|2048|4096|B|P
+
